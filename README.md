@@ -61,5 +61,3 @@ Les dades seleccionades per a cada tècnica són les següents:
 5. **Objectius i conclusions per a cada visualització**
 
 ---
-
-Aquest README ofereix una guia completa de l’activitat, materials lliurats, i criteris de presentació.
